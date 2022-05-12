@@ -217,6 +217,30 @@ export interface Profile {
      * @memberof Profile
      */
     hourAvailability: number;
+    /**
+     * 
+     * @type {boolean}
+     * @memberof Profile
+     */
+    isAvailable: boolean;
+    /**
+     * 
+     * @type {number}
+     * @memberof Profile
+     */
+    rating?: number;
+    /**
+     * 
+     * @type {Array<string>}
+     * @memberof Profile
+     */
+    socials?: Array<string>;
+    /**
+     * 
+     * @type {Array<string>}
+     * @memberof Profile
+     */
+    statistics?: Array<string>;
 }
 /**
  * 

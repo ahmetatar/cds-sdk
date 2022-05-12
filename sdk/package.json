@@ -1,15 +1,15 @@
 {
   "name": "@cds/sdk",
-  "version": "1.0.0",
-  "description": "Swagger client for Component Design Sample App",
-  "author": "Janti Contributors",
+  "version": "1.0.5",
+  "description": "swagger client for @cds/sdk",
+  "author": "Swagger Codegen Contributors",
   "keywords": [
     "fetch",
     "typescript",
     "swagger-client",
     "@cds/sdk"
   ],
-  "license": "MIT",
+  "license": "Unlicense",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "scripts" : {
